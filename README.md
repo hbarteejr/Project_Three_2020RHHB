@@ -4,13 +4,13 @@ In this project, we are seeking to predict the probability that a player will be
 
 Pro Football Reference and NFL.com data is being used looking at the historical drafts from 2011 to 2020.  Draft Data, including year and athlete name, along with position, college attended and conference of the college are coded for the last 10 years from 2011 to 2020.    
 
-319 Total Players were drafted by the 32 teams over the years from 2011 through 2020.  
+319 Total Players were drafted by the 32 teams over the years from 2011 through 2020 in the First Round.   
 
-13 Different Positons were drafted.
+13 Different Positons were drafted in the First Round.
 
-71 Different Colleges were attended by the draftees.
+71 Different Colleges were attended by the draftees in the First Round. 
 
-12 Different Conferences were represented by the colleges that players drafted attended as student athletes. 
+12 Different Conferences were represented by the colleges that players drafted attended as student athletes and drafted in the First Round.  
 
 With COVID-19 prevalent in our society, the purpose of this machine learning project is to predict which colleges student athletes will attend so that they may increase their opportunity of being drafted based upon past draft history.  
 

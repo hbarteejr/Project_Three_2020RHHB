@@ -1,0 +1,320 @@
+Draft year,Round,Player,Position,Position #,College,College #,Conference,Conference #
+2011,1,Marcell Dareus,DT,5,Alabama,1,SEC,11
+2011,1,James Carpenter,OT,9,Alabama,1,SEC,11
+2011,1,Mark Ingram Jr.,RB,10,Alabama,1,SEC,11
+2011,1,Julio Jones,WR,13,Alabama,1,SEC,11
+2011,1,Nick Fairley,DT,5,Auburn,4,SEC,11
+2011,1,Cam Newton,QB,1,Auburn,4,SEC,11
+2011,1,Phil Taylor Sr.,DT,5,Baylor,5,Big 12,2
+2011,1,Danny Watkins,G,6,Baylor,5,Big 12,2
+2011,1,Anthony Castonzo,OT,9,Boston College,7,ACC,1
+2011,1,Cameron Jordan,DE,4,California,10,Pac-12,10
+2011,1,Jimmy Smith,CB,3,Colorado,13,Big 12,2
+2011,1,Nate Solder,OT,9,Colorado,13,Big 12,2
+2011,1,Mike Pouncey,C,2,Florida,16,SEC,11
+2011,1,Christian Ponder,QB,1,Florida State,17,ACC,1
+2011,1,A. J. Green,WR,13,Georgia,18,SEC,11
+2011,1,Corey Liuget,DT,5,Illinois,20,Big Ten,4
+2011,1,Adrian Clayborn,DE,4,Iowa,21,Big Ten,4
+2011,1,Patrick Peterson,CB,3,LSU,25,SEC,11
+2011,1,Derek Sherrod,OT,9,Mississippi State,31,SEC,11
+2011,1,Aldon Smith,LB,7,Missouri,32,Big 12,2
+2011,1,Blaine Gabbert,QB,1,Missouri,32,Big 12,2
+2011,1,Prince Amukamara,CB,3,Nebraska,34,Big 12,2
+2011,1,Robert Quinn,DE,4,North Carolina,36,ACC,1
+2011,1,Cameron Heyward,DE,4,Ohio State,39,Big Ten,4
+2011,1,Jonathan Baldwin,WR,13,Pittsburgh,46,Big East,3
+2011,1,Ryan Kerrigan,DE,4,Purdue,47,Big Ten,4
+2011,1,Muhammad Wilkerson,DE,4,Temple,53,MAC,7
+2011,1,Von Miller,LB,7,Texas A&M,56,Big 12,2
+2011,1,Tyron Smith,OT,9,USC,60,Pac-12,10
+2011,1,Jake Locker,QB,1,Washington,66,Pac-12,10
+2011,1,J. J. Watt,DE,4,Wisconsin,70,Big Ten,4
+2011,1,Gabe Carimi,OT,9,Wisconsin,70,Big Ten,4
+2012,1,Dre Kirkpatrick ,CB,3,Alabama,1,SEC,11
+2012,1,Dont'a Hightower ,LB,7,Alabama,1,SEC,11
+2012,1,Trent Richardson ,RB,10,Alabama,1,SEC,11
+2012,1,Mark Barron ,S,11,Alabama,1,SEC,11
+2012,1,Robert Griffin III ,QB,1,Baylor,5,Big 12,2
+2012,1,Kendall Wright ,WR,13,Baylor,5,Big 12,2
+2012,1,Shea McClellin ,DE,4,Boise State,6,MW,9
+2012,1,Doug Martin ,RB,10,Boise State,6,MW,9
+2012,1,Luke Kuechly ,LB,7,Boston College,7,ACC,1
+2012,1,Whitney Mercilus ,DE,4,Illinois,20,Big Ten,4
+2012,1,A. J. Jenkins ,WR,13,Illinois,20,Big Ten,4
+2012,1,Riley Reiff ,OT,9,Iowa,21,Big Ten,4
+2012,1,Morris Claiborne ,CB,3,LSU,25,SEC,11
+2012,1,Michael Brockers ,DT,5,LSU,25,SEC,11
+2012,1,Dontari Poe ,DT,5,Memphis,27,C-USA,5
+2012,1,Fletcher Cox ,DT,5,Mississippi State,31,SEC,11
+2012,1,Quinton Coples ,DE,4,North Carolina,36,ACC,1
+2012,1,Harrison Smith ,S,11,Notre Dame,38,Ind. (FBS),6
+2012,1,Michael Floyd ,WR,13,Notre Dame,38,Ind. (FBS),6
+2012,1,Brandon Weeden ,QB,1,Oklahoma State,41,Big 12,2
+2012,1,Justin Blackmon ,WR,13,Oklahoma State,41,Big 12,2
+2012,1,Stephon Gilmore ,CB,3,South Carolina,49,SEC,11
+2012,1,Melvin Ingram ,LB,7,South Carolina,49,SEC,11
+2012,1,David DeCastro ,G,6,Stanford,50,Pac-12,10
+2012,1,Andrew Luck ,QB,1,Stanford,50,Pac-12,10
+2012,1,Chandler Jones ,DE,4,Syracuse,51,Big East,3
+2012,1,Ryan Tannehill ,QB,1,Texas A&M,56,Big 12,2
+2012,1,Nick Perry ,LB,7,USC,60,Pac-12,10
+2012,1,Matt Kalil ,OT,9,USC,60,Pac-12,10
+2012,1,David Wilson ,RB,10,Virginia Tech,64,ACC,1
+2012,1,Bruce Irvin ,DE,4,West Virginia,68,Big East,3
+2012,1,Kevin Zeitler ,G,6,Wisconsin,70,Big Ten,4
+2013,1,Dee Milliner,CB,3,Alabama,1,SEC,11
+2013,1,Chance Warmack,G,6,Alabama,1,SEC,11
+2013,1,D. J. Fluker,OT,9,Alabama,1,SEC,11
+2013,1,Ezekiel Ansah,DE,4,BYU,9,Ind. (FBS),6
+2013,1,Eric Fisher,OT,9,Central Michigan,11,MAC,7
+2013,1,DeAndre Hopkins,WR,13,Clemson,12,ACC,1
+2013,1,Sharrif Floyd,DT,5,Florida,16,SEC,11
+2013,1,Matt Elam,S,11,Florida,16,SEC,11
+2013,1,Xavier Rhodes,CB,3,Florida State,17,ACC,1
+2013,1,BjÃ¶rn Werner,DE,4,Florida State,17,ACC,1
+2013,1,EJ Manuel,QB,1,Florida State,17,ACC,1
+2013,1,Jarvis Jones,LB,7,Georgia,18,SEC,11
+2013,1,Alec Ogletree,LB,7,Georgia,18,SEC,11
+2013,1,D. J. Hayden,CB,3,Houston,19,C-USA,5
+2013,1,Barkevious Mingo,DE,4,LSU,25,SEC,11
+2013,1,Eric Reid,S,11,LSU,25,SEC,11
+2013,1,Sheldon Richardson,DT,5,Missouri,32,SEC,11
+2013,1,Sylvester Williams,DT,5,North Carolina,36,ACC,1
+2013,1,Jonathan Cooper,G,6,North Carolina,36,ACC,1
+2013,1,Tyler Eifert,TE,12,Notre Dame,38,Ind. (FBS),6
+2013,1,Lane Johnson,OT,9,Oklahoma,40,Big 12,2
+2013,1,Dion Jordan,DE,4,Oregon,43,Pac-12,10
+2013,1,Kyle Long,G,6,Oregon,43,Pac-12,10
+2013,1,Justin Pugh,OT,9,Syracuse,51,Big East,3
+2013,1,Cordarrelle Patterson,WR,13,Tennessee,54,SEC,11
+2013,1,Kenny Vaccaro,S,11,Texas,55,Big 12,2
+2013,1,Luke Joeckel,OT,9,Texas A&M,56,SEC,11
+2013,1,Datone Jones,DE,4,UCLA,59,Pac-12,10
+2013,1,Star Lotulelei,DT,5,Utah,61,Pac-12,10
+2013,1,Desmond Trufant,CB,3,Washington,66,Pac-12,10
+2013,1,Tavon Austin,WR,13,West Virginia,68,Big 12,2
+2013,1,Travis Frederick,C,2,Wisconsin,70,Big Ten,4
+2014,1,C. J. Mosley ,LB,7,Alabama,1,SEC,11
+2014,1,Ha Ha Clinton-Dix ,S,11,Alabama,1,SEC,11
+2014,1,Dee Ford ,DE,4,Auburn,4,SEC,11
+2014,1,Greg Robinson ,OT,9,Auburn,4,SEC,11
+2014,1,Khalil Mack ,LB,7,Buffalo,8,MAC,7
+2014,1,Sammy Watkins ,WR,13,Clemson,12,ACC,1
+2014,1,Dominique Easley ,DT,5,Florida,16,SEC,11
+2014,1,Kelvin Benjamin ,WR,13,Florida State,17,ACC,1
+2014,1,Marcus Smith ,LB,7,Louisville,24,The American,12
+2014,1,Teddy Bridgewater ,QB,1,Louisville,24,The American,12
+2014,1,Calvin Pryor ,S,11,Louisville,24,The American,12
+2014,1,Odell Beckham ,WR,13,LSU,25,SEC,11
+2014,1,Taylor Lewan ,OT,9,Michigan,29,Big Ten,4
+2014,1,Darqueze Dennard ,CB,3,Michigan State,30,Big Ten,4
+2014,1,Jimmie Ward ,S,11,NIU,35,MAC,7
+2014,1,Eric Ebron ,TE,12,North Carolina,36,ACC,1
+2014,1,Zack Martin ,G,6,Notre Dame,38,Ind. (FBS),6
+2014,1,Bradley Roby ,CB,3,Ohio State,39,Big Ten,4
+2014,1,Ryan Shazier ,LB,7,Ohio State,39,Big Ten,4
+2014,1,Justin Gilbert ,CB,3,Oklahoma State,41,Big 12,2
+2014,1,Brandin Cooks ,WR,13,Oregon State,44,Pac-12,10
+2014,1,Aaron Donald ,DT,5,Pittsburgh,46,ACC,1
+2014,1,Jadeveon Clowney ,DE,4,South Carolina,49,SEC,11
+2014,1,Jason Verrett ,CB,3,TCU,52,Big 12,2
+2014,1,Ja'Wuan James ,OT,9,Tennessee,54,SEC,11
+2014,1,Jake Matthews ,OT,9,Texas A&M,56,SEC,11
+2014,1,Johnny Manziel ,QB,1,Texas A&M,56,SEC,11
+2014,1,Mike Evans ,WR,13,Texas A&M,56,SEC,11
+2014,1,Blake Bortles ,QB,1,UCF,58,The American,12
+2014,1,Anthony Barr ,LB,7,UCLA,59,Pac-12,10
+2014,1,Kyle Fuller ,CB,3,Virginia Tech,64,ACC,1
+2014,1,Deone Bucannon ,S,11,Washington State,67,Pac-12,10
+2015,1,Amari Cooper ,WR,13,Alabama,1,SEC,11
+2015,1,Damarious Randall ,S,11,Arizona State,2,Pac-12,10
+2015,1,Vic Beasley ,DE,4,Clemson,12,ACC,1
+2015,1,Stephone Anthony ,LB,7,Clemson,12,ACC,1
+2015,1,Byron Jones ,CB,3,Connecticut,14,The American,12
+2015,1,Laken Tomlinson ,G,6,Duke,15,ACC,1
+2015,1,Dante Fowler ,DE,4,Florida,16,SEC,11
+2015,1,D. J. Humphries ,OT,9,Florida,16,SEC,11
+2015,1,Cameron Erving ,C,2,Florida State,17,ACC,1
+2015,1,Jameis Winston ,QB,1,Florida State,17,ACC,1
+2015,1,Todd Gurley ,RB,10,Georgia,18,SEC,11
+2015,1,Brandon Scherff ,OT,9,Iowa,21,Big Ten,4
+2015,1,Bud Dupree ,LB,7,Kentucky,22,SEC,11
+2015,1,DeVante Parker ,WR,13,Louisville,24,ACC,1
+2015,1,Ereck Flowers ,OT,9,Miami (FL),28,ACC,1
+2015,1,Phillip Dorsett ,WR,13,Miami (FL),28,ACC,1
+2015,1,Trae Waynes ,CB,3,Michigan State,30,Big Ten,4
+2015,1,Shane Ray ,DE,4,Missouri,32,SEC,11
+2015,1,Arik Armstead ,DE,4,Oregon,43,Pac-12,10
+2015,1,Marcus Mariota ,QB,1,Oregon,43,Pac-12,10
+2015,1,Andrus Peat ,OT,9,Stanford,50,Pac-12,10
+2015,1,Malcom Brown ,DT,5,Texas,55,Big 12,2
+2015,1,Cedric Ogbuehi ,OT,9,Texas A&M,56,SEC,11
+2015,1,Breshad Perriman ,WR,13,UCF,58,The American,12
+2015,1,Leonard Williams ,DE,4,USC,60,Pac-12,10
+2015,1,Nelson Agholor ,WR,13,USC,60,Pac-12,10
+2015,1,Kevin Johnson ,CB,3,Wake Forest,65,ACC,1
+2015,1,Marcus Peters ,CB,3,Washington,66,Pac-12,10
+2015,1,Danny Shelton ,DT,5,Washington,66,Pac-12,10
+2015,1,Shaq Thompson ,LB,7,Washington,66,Pac-12,10
+2015,1,Kevin White ,WR,13,West Virginia,68,Big 12,2
+2015,1,Melvin Gordon ,RB,10,Wisconsin,70,Big Ten,4
+2016,1,Ryan Kelly ,C,2,Alabama,1,SEC,11
+2016,1,Corey Coleman ,WR,13,Baylor,5,Big 12,2
+2016,1,Jared Goff ,QB,1,California,10,Pac-12,10
+2016,1,Shaq Lawson ,DE,4,Clemson,12,ACC,1
+2016,1,Vernon Hargreaves ,CB,3,Florida,16,SEC,11
+2016,1,Keanu Neal ,S,11,Florida,16,SEC,11
+2016,1,Jalen Ramsey ,CB,3,Florida State,17,ACC,1
+2016,1,Leonard Floyd ,LB,7,Georgia,18,SEC,11
+2016,1,William Jackson ,CB,3,Houston,19,The American,12
+2016,1,Vernon Butler ,DT,5,Louisiana Tech,23,C-USA,5
+2016,1,Sheldon Rankins ,DT,5,Louisville,24,ACC,1
+2016,1,Paxton Lynch ,QB,1,Memphis,27,The American,12
+2016,1,Artie Burns ,CB,3,Miami (FL),28,ACC,1
+2016,1,Jack Conklin ,OT,9,Michigan State,30,Big Ten,4
+2016,1,Carson Wentz ,QB,1,North Dakota State,37,MVFC,8
+2016,1,Ronnie Stanley ,OT,9,Notre Dame,38,Ind. (FBS),6
+2016,1,Will Fuller ,WR,13,Notre Dame,38,Ind. (FBS),6
+2016,1,Eli Apple ,CB,3,Ohio State,39,Big Ten,4
+2016,1,Joey Bosa ,DE,4,Ohio State,39,Big Ten,4
+2016,1,Darron Lee ,LB,7,Ohio State,39,Big Ten,4
+2016,1,Taylor Decker ,OT,9,Ohio State,39,Big Ten,4
+2016,1,Ezekiel Elliott ,RB,10,Ohio State,39,Big Ten,4
+2016,1,Robert Nkemdiche ,DT,5,Ole Miss,42,SEC,11
+2016,1,Laremy Tunsil ,OT,9,Ole Miss,42,SEC,11
+2016,1,Laquon Treadwell ,WR,13,Ole Miss,42,SEC,11
+2016,1,DeForest Buckner ,DE,4,Oregon,43,Pac-12,10
+2016,1,Joshua Garnett ,G,6,Stanford,50,Pac-12,10
+2016,1,Josh Doctson ,WR,13,TCU,52,Big 12,2
+2016,1,Germain Ifedi ,OT,9,Texas A&M,56,SEC,11
+2016,1,Kenny Clark ,DT,5,UCLA,59,Pac-12,10
+2016,1,Karl Joseph ,S,11,West Virginia,68,Big 12,2
+2017,1,Marlon Humphrey ,CB,3,Alabama,1,SEC,11
+2017,1,Jonathan Allen ,DE,4,Alabama,1,SEC,11
+2017,1,Reuben Foster ,LB,7,Alabama,1,SEC,11
+2017,1,O. J. Howard ,TE,12,Alabama,1,SEC,11
+2017,1,Deshaun Watson ,QB,1,Clemson,12,ACC,1
+2017,1,Mike Williams ,WR,13,Clemson,12,ACC,1
+2017,1,Jarrad Davis ,LB,7,Florida,16,SEC,11
+2017,1,Tre'Davious White ,CB,3,LSU,25,SEC,11
+2017,1,Leonard Fournette ,RB,10,LSU,25,SEC,11
+2017,1,Jamal Adams ,S,11,LSU,25,SEC,11
+2017,1,David Njoku ,TE,12,Miami (FL),28,ACC,1
+2017,1,Taco Charlton ,DE,4,Michigan,29,Big Ten,4
+2017,1,Jabrill Peppers ,S,11,Michigan,29,Big Ten,4
+2017,1,Charles Harris ,DE,4,Missouri,32,SEC,11
+2017,1,Mitchell Trubisky ,QB,1,North Carolina,36,ACC,1
+2017,1,Marshon Lattimore ,CB,3,Ohio State,39,Big Ten,4
+2017,1,Gareon Conley ,CB,3,Ohio State,39,Big Ten,4
+2017,1,Malik Hooker ,S,11,Ohio State,39,Big Ten,4
+2017,1,Evan Engram ,TE,12,Ole Miss,42,SEC,11
+2017,1,Solomon Thomas ,DE,4,Stanford,50,Pac-12,10
+2017,1,Christian McCaffrey ,RB,10,Stanford,50,Pac-12,10
+2017,1,Haason Reddick ,LB,7,Temple,53,The American,12
+2017,1,Derek Barnett ,DE,4,Tennessee,54,SEC,11
+2017,1,Myles Garrett ,DE,4,Texas A&M,56,SEC,11
+2017,1,Patrick Mahomes ,QB,1,Texas Tech,57,Big 12,2
+2017,1,Takkarist McKinley ,DE,4,UCLA,59,Pac-12,10
+2017,1,Adoree' Jackson ,CB,3,USC,60,Pac-12,10
+2017,1,Garett Bolles ,OT,9,Utah,61,Pac-12,10
+2017,1,John Ross ,WR,13,Washington,66,Pac-12,10
+2017,1,Corey Davis ,WR,13,Western Michigan,69,MAC,7
+2017,1,T. J. Watt ,LB,7,Wisconsin,70,Big Ten,4
+2017,1,Ryan Ramczyk ,OT,9,Wisconsin,70,Big Ten,4
+2018,1,Rashaan Evans ,LB,7,Alabama,1,SEC,11
+2018,1,Daron Payne ,NT,8,Alabama,1,SEC,11
+2018,1,Minkah Fitzpatrick ,S,11,Alabama,1,SEC,11
+2018,1,Calvin Ridley ,WR,13,Alabama,1,SEC,11
+2018,1,Frank Ragnow ,C,2,Arkansas,3,SEC,11
+2018,1,Leighton Vander Esch ,LB,7,Boise State,6,MW,9
+2018,1,Taven Bryan ,DT,5,Florida,16,SEC,11
+2018,1,Derwin James ,S,11,Florida State,17,ACC,1
+2018,1,Roquan Smith ,LB,7,Georgia,18,SEC,11
+2018,1,Isaiah Wynn ,OT,9,Georgia,18,SEC,11
+2018,1,Sony Michel ,RB,10,Georgia,18,SEC,11
+2018,1,Jaire Alexander ,CB,3,Louisville,24,ACC,1
+2018,1,Lamar Jackson ,QB,1,Louisville,24,ACC,1
+2018,1,D. J. Moore ,WR,13,Maryland,26,Big Ten,4
+2018,1,Bradley Chubb ,LB,7,NC State,33,ACC,1
+2018,1,Quenton Nelson ,G,6,Notre Dame,38,Ind. (FBS),6
+2018,1,Mike McGlinchey ,OT,9,Notre Dame,38,Ind. (FBS),6
+2018,1,Billy Price ,C,2,Ohio State,39,Big Ten,4
+2018,1,Denzel Ward ,CB,3,Ohio State,39,Big Ten,4
+2018,1,Baker Mayfield ,QB,1,Oklahoma,40,Big 12,2
+2018,1,Saquon Barkley ,RB,10,Penn State,45,Big Ten,4
+2018,1,Rashaad Penny ,RB,10,San Diego State,48,MW,9
+2018,1,Hayden Hurst ,TE,12,South Carolina,49,SEC,11
+2018,1,Mike Hughes ,CB,3,UCF,58,The American,12
+2018,1,Kolton Miller ,OT,9,UCLA,59,Pac-12,10
+2018,1,Josh Rosen ,QB,1,UCLA,59,Pac-12,10
+2018,1,Sam Darnold ,QB,1,USC,60,Pac-12,10
+2018,1,Marcus Davenport ,DE,4,UTSA,63,C-USA,5
+2018,1,Tremaine Edmunds ,LB,7,Virginia Tech,64,ACC,1
+2018,1,Terrell Edmunds ,S,11,Virginia Tech,64,ACC,1
+2018,1,Vita Vea ,NT,8,Washington,66,Pac-12,10
+2018,1,Josh Allen ,QB,1,Wyoming,71,MW,9
+2019,1,Amari Cooper ,WR,13,Alabama,1,SEC,11
+2019,1,Damarious Randall ,S,11,Arizona State,2,Pac-12,10
+2019,1,Vic Beasley ,DE,4,Clemson,12,ACC,1
+2019,1,Stephone Anthony ,LB,7,Clemson,12,ACC,1
+2019,1,Byron Jones ,CB,3,Connecticut,14,The American,12
+2019,1,Laken Tomlinson ,G,6,Duke,15,ACC,1
+2019,1,Dante Fowler ,DE,4,Florida,16,SEC,11
+2019,1,D. J. Humphries ,OT,9,Florida,16,SEC,11
+2019,1,Cameron Erving ,C,2,Florida State,17,ACC,1
+2019,1,Jameis Winston ,QB,1,Florida State,17,ACC,1
+2019,1,Todd Gurley ,RB,10,Georgia,18,SEC,11
+2019,1,Brandon Scherff ,OT,9,Iowa,21,Big Ten,4
+2019,1,Bud Dupree ,LB,7,Kentucky,22,SEC,11
+2019,1,DeVante Parker ,WR,13,Louisville,24,ACC,1
+2019,1,Ereck Flowers ,OT,9,Miami (FL),28,ACC,1
+2019,1,Phillip Dorsett ,WR,13,Miami (FL),28,ACC,1
+2019,1,Trae Waynes ,CB,3,Michigan State,30,Big Ten,4
+2019,1,Shane Ray ,DE,4,Missouri,32,SEC,11
+2019,1,Arik Armstead ,DE,4,Oregon,43,Pac-12,10
+2019,1,Marcus Mariota ,QB,1,Oregon,43,Pac-12,10
+2019,1,Andrus Peat ,OT,9,Stanford,50,Pac-12,10
+2019,1,Malcom Brown ,DT,5,Texas,55,Big 12,2
+2019,1,Cedric Ogbuehi ,OT,9,Texas A&M,56,SEC,11
+2019,1,Breshad Perriman ,WR,13,UCF,58,The American,12
+2019,1,Leonard Williams ,DE,4,USC,60,Pac-12,10
+2019,1,Nelson Agholor ,WR,13,USC,60,Pac-12,10
+2019,1,Kevin Johnson ,CB,3,Wake Forest,65,ACC,1
+2019,1,Marcus Peters ,CB,3,Washington,66,Pac-12,10
+2019,1,Danny Shelton ,DT,5,Washington,66,Pac-12,10
+2019,1,Shaq Thompson ,LB,7,Washington,66,Pac-12,10
+2019,1,Kevin White ,WR,13,West Virginia,68,Big 12,2
+2019,1,Melvin Gordon ,RB,10,Wisconsin,70,Big Ten,4
+2020,1,Jedrick Wills�,OT,9,Alabama,1,SEC,11
+2020,1,Tua Tagovailoa�,QB,1,Alabama,1,SEC,11
+2020,1,Henry Ruggs�,WR,13,Alabama,1,SEC,11
+2020,1,Jerry Jeudy�,WR,13,Alabama,1,SEC,11
+2020,1,Brandon Aiyuk�,WR,13,Arizona State,2,Pac-12,10
+2020,1,Noah Igbinoghene�,CB,3,Auburn,4,SEC,11
+2020,1,Derrick Brown�,DT,5,Auburn,4,SEC,11
+2020,1,A. J. Terrell�,CB,3,Clemson,12,ACC,1
+2020,1,Isaiah Simmons�,LB,7,Clemson,12,ACC,1
+2020,1,C. J. Henderson�,CB,3,Florida,16,SEC,11
+2020,1,Andrew Thomas�,OT,9,Georgia,18,SEC,11
+2020,1,Isaiah Wilson�,OT,9,Georgia,18,SEC,11
+2020,1,Tristan Wirfs�,OT,9,Iowa,21,Big Ten,4
+2020,1,Mekhi Becton�,OT,9,Louisville,24,ACC,1
+2020,1,K'Lavon Chaisson�,LB,7,LSU,25,SEC,11
+2020,1,Patrick Queen�,LB,7,LSU,25,SEC,11
+2020,1,Joe Burrow�,QB,1,LSU,25,SEC,11
+2020,1,Clyde Edwards-Helaire�,RB,10,LSU,25,SEC,11
+2020,1,Justin Jefferson�,WR,13,LSU,25,SEC,11
+2020,1,Cesar Ruiz�,C,2,Michigan,29,Big Ten,4
+2020,1,Jeff Okudah�,CB,3,Ohio State,39,Big Ten,4
+2020,1,Damon Arnette�,CB,3,Ohio State,39,Big Ten,4
+2020,1,Chase Young�,DE,4,Ohio State,39,Big Ten,4
+2020,1,Kenneth Murray�,LB,7,Oklahoma,40,Big 12,2
+2020,1,CeeDee Lamb�,WR,13,Oklahoma,40,Big 12,2
+2020,1,Justin Herbert�,QB,1,Oregon,43,Pac-12,10
+2020,1,Javon Kinlaw�,DT,5,South Carolina,49,SEC,11
+2020,1,Jeff Gladney�,CB,3,TCU,52,Big 12,2
+2020,1,Jalen Reagor�,WR,13,TCU,52,Big 12,2
+2020,1,Jordyn Brooks�,LB,7,Texas Tech,57,Big 12,2
+2020,1,Austin Jackson�,OT,9,USC,60,Pac-12,10
+2020,1,Jordan Love�,QB,1,Utah State,62,MW,9

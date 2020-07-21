@@ -11,3 +11,4 @@ With COVID-19 prevalent in our society, the purpose of this machine learning pro
 Different technologies will be used that will set forth the approach of predicting the most likely path to the NFL as a 1st Round Draft Pick.  
 
 !(Images/Combine Visualization.jpeg)
+![2-BasicMap](Images/2-BasicMap.png)

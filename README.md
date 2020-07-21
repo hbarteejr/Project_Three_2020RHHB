@@ -9,3 +9,5 @@ Pro Football Reference and NFL.com data is being used looking at the historical 
 With COVID-19 prevalent in our society, the purpose of this machine learning project is to predict the accuracy of the round as compared to the final draft position.    
 
 Different technologies will be used that will set forth the approach of predicting the most likely path to the NFL as a 1st Round Draft Pick.  
+
+Combine Visualization 2020.JPG

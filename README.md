@@ -10,5 +10,10 @@ With COVID-19 prevalent in our society, the purpose of this machine learning pro
 
 Different technologies will be used that will set forth the approach of predicting the most likely path to the NFL as a 1st Round Draft Pick.  
 
+We also reviewed and completed a Linear Regression and found the following results for the 200 players we analyzed.   
 
+Actual Min Value: -150.9540047123573
+Predicted Min Value: [-146.41680691]
+Actual Max Value: 329.46126082722554
+Predicted Max Value: [328.94351204]
 
